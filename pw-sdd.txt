@@ -1,0 +1,13 @@
+Intel SSD 530 180GB OEM from mironet ... 3744
+Intel SSD 530 180GB OEM from czc ... 3690
+Intel SSD 530 180GB OEM from alza ... 3725
+Kingston SSDNow V300 120GB Upgrade Kit from mironet ... 2348
+Kingston SSDNow V300 120GB Upgrade Kit from czc ... 2277
+Kingston SSDNow V300 120GB Upgrade Kit from alza ... 2249
+Kingston SSDNow V300 60GB Upgrade Kit from mironet ... 1713
+Kingston SSDNow V300 60GB Upgrade Kit from czc ... 1708
+Kingston SSDNow V300 60GB Upgrade Kit from alza ... 1709
+                                    ITEM       ALZA        CZC    MIRONET
+                 Intel SSD 530 180GB OEM       3725       3690       3744
+  Kingston SSDNow V300 120GB Upgrade Kit       2249       2277       2348
+   Kingston SSDNow V300 60GB Upgrade Kit       1709       1708       1713

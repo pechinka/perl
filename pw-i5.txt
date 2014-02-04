@@ -1,0 +1,5 @@
+CPU Intel Core i5-3470 from mironet ... 4937
+CPU Intel Core i5-3470 from czc ... 4709
+CPU Intel Core i5-3470 from alza ... 4789
+                                    ITEM       ALZA        CZC    MIRONET
+                  CPU Intel Core i5-3470       4789       4709       4937

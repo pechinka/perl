@@ -1,5 +1,23 @@
 #!/usr/bin/perl -W
-
+##############################################################################
+#
+# File   :  pw
+# History:  04-feb-2014 (pohlp) code tidy and comments added
+#           05-jan-2014 (pohlp) first implementation
+#
+##############################################################################
+#
+# price watcher returns list of component prices from alza, czc, mironet 
+#
+# Usage: ./pw.pl pw-hdd.ini > pw-hdd.txt
+# 
+# pw-hdd.ini format:
+# HDD WD Green 1TB 64MB cache:czc=http://www.czc.cz/wd-caviar-green-ez-1tb/100665/produkt
+# 
+# "HDD WD Green 1TB 64MB cache" # component name, same for all shops (alza,czc,mironet) to compare
+# "czc" # shortcut for the shop (alza/czc/mironet) 
+# "http://www.czc.cz/wd-caviar-green-ez-1tb/100665/produkt" # product url 
+##############################################################################
 use strict;
 use warnings FATAL => 'all';
 

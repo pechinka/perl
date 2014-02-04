@@ -1,0 +1,9 @@
+HDD WD Green RX 500GB 64MB cache from mironet ... 1372
+HDD WD Green RX 500GB 64MB cache from czc ... 1310
+HDD WD Green RX 500GB 64MB cache from alza ... 1363
+HDD WD Green 1TB 64MB cache from mironet ... 1522
+HDD WD Green 1TB 64MB cache from czc ... 1447
+HDD WD Green 1TB 64MB cache from alza ... 1548
+                                    ITEM       ALZA        CZC    MIRONET
+        HDD WD Green RX 500GB 64MB cache       1363       1310       1372
+             HDD WD Green 1TB 64MB cache       1548       1447       1522

@@ -1,0 +1,5 @@
+CPU Intel Core i3-3220T from mironet ... 3120
+CPU Intel Core i3-3220T from czc ... 3039
+CPU Intel Core i3-3220T from alza ... 3065
+                                    ITEM       ALZA        CZC    MIRONET
+                 CPU Intel Core i3-3220T       3065       3039       3120

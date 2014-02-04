@@ -1,0 +1,25 @@
+OS MS Win 7 Professional CZ 64bit OEM from mironet ... 3390
+OS MS Win 7 Professional CZ 64bit OEM from czc ... 3289
+OS MS Win 7 Professional CZ 64bit OEM from alza ... 3479
+OS MS Win 7 Ultimate CZ 64bit OEM from mironet ... 4345
+OS MS Win 7 Ultimate CZ 64bit OEM from czc ... 4973
+OS MS Win 7 Ultimate CZ 64bit OEM from alza ... 3876
+OS MS Win 7 Professional EN 64bit OEM from mironet ... 3600
+OS MS Win 7 Professional EN 64bit OEM from czc ... 3666
+OS MS Win 7 Professional EN 64bit OEM from alza ... 3555
+OS MS Win 7 Home Premium EN 64bit OEM from mironet ... 2519
+OS MS Win 7 Home Premium EN 64bit OEM from czc ... 2504
+OS MS Win 7 Home Premium EN 64bit OEM from alza ... 2462
+OS MS Win 7 Home Premium CZ 64bit OEM from mironet ... 2349
+OS MS Win 7 Home Premium CZ 64bit OEM from czc ... 2249
+OS MS Win 7 Home Premium CZ 64bit OEM from alza ... 2344
+OS MS Win 7 Ultimate EN 64 bit OEM from mironet ... 4426
+OS MS Win 7 Ultimate EN 64 bit OEM from czc ... 4973
+OS MS Win 7 Ultimate EN 64 bit OEM from alza ... 4718
+                                    ITEM       ALZA        CZC    MIRONET
+   OS MS Win 7 Professional CZ 64bit OEM       3479       3289       3390
+       OS MS Win 7 Ultimate CZ 64bit OEM       3876       4973       4345
+   OS MS Win 7 Professional EN 64bit OEM       3555       3666       3600
+   OS MS Win 7 Home Premium EN 64bit OEM       2462       2504       2519
+   OS MS Win 7 Home Premium CZ 64bit OEM       2344       2249       2349
+      OS MS Win 7 Ultimate EN 64 bit OEM       4718       4973       4426

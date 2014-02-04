@@ -1,0 +1,5 @@
+CPU Intel Core i7-3770 from mironet ... 7731
+CPU Intel Core i7-3770 from czc ... 7347
+CPU Intel Core i7-3770 from alza ... 7499
+                                    ITEM       ALZA        CZC    MIRONET
+                  CPU Intel Core i7-3770       7499       7347       7731
